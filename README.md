@@ -32,19 +32,18 @@ Los alumnos conocerán herramientas para estudiar fenómenos sociales a partir d
 
 | Tema | Descripción |
 |------|-------------|
-| I | Introducción al aprendizaje automatizado (ML) |
-| II | Introducción al análisis de sistemas complejos |
-| III | Programación en Python |
-| IV | Procesamiento, Visualización y Análisis de Datos |
-| V | Modelos de Agentes Computacionales |
-| VI | Clasificación |
-| VII | Métodos de remuestreo, selección de modelos y regularización |
-| VIII | Métodos basados en árboles |
-| IX | Inferencia causal |
-| X | Redes neuronales y aprendizaje profundo |
-| XI | Aprendizaje no supervisado |
-| XII | Aplicaciones de aprendizaje de máquina |
-| XIII | Introducción a la inteligencia artificial generativa |
+| I | Instalación de Python y entorno de trabajo (Anaconda, Jupyter) |
+| II | Estructura de datos con NumPy y Polars |
+| III | Visualización de datos (Plotly, Seaborn) |
+| IV | Regresión lineal y regresión logística |
+| V | Econometría y Machine Learning: objetivos, métodos y diferencias |
+| VI | Validación cruzada, sobreajuste y regularización |
+| VII | Aprendizaje supervisado para regresión: LASSO, Ridge y Elastic Nets |
+| VIII | Árboles de regresión y Random Forests |
+| IX | Deep Learning y redes neuronales |
+| X | Boosting |
+| XI | Aprendizaje supervisado para clasificación |
+| XII | Aprendizaje no supervisado: K-Means y clustering |
 
 ---
 
@@ -54,5 +53,8 @@ Los alumnos conocerán herramientas para estudiar fenómenos sociales a partir d
 
 ## Bibliografía Principal
 
+- **Athey, S., & Imbens, G. W. (2019).** Machine Learning Methods That Economists Should Know About. *Annual Review of Economics*, 11, 685-725. [🔗 Link](https://doi.org/10.1146/annurev-economics-080217-053433)
+
+- **James, G., Witten, D., Hastie, T., Tibshirani, R., & Taylor, J. (2023).** *An Introduction to Statistical Learning: with Applications in Python.* Springer. [🔗 Link](https://www.statlearning.com/)
 
 *Primavera 2026*
