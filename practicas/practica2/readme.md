@@ -1,5 +1,5 @@
 # Práctica: Predicción de Salarios con Árboles
-Basicamente van a resolver un problema el mismo problema pero ahora con árboles
+Basicamente van a resolver el mismo problema pero ahora con árboles
 
 ## Entrega
 
